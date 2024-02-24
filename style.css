@@ -44,3 +44,7 @@ td {
 th {
     background-color: rgb(127, 202, 255);
 }
+
+img {
+    width: 30%;
+}
